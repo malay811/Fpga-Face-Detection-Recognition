@@ -2,7 +2,7 @@
 
 Real-time face detection and recognition system running on a Xilinx Artix-7 XC7A35T FPGA. Captures a live OV7670 camera feed and displays results on a 640×480 VGA monitor with a bounding box and recognized identity overlay.
 
-![Real-Time Face Detection & Recognition](assets/Result.png)
+![Real-Time Face Detection & Recognition](assets/Result.jpeg)
 
 ## How It Works
 
